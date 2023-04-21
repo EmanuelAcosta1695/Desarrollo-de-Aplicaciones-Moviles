@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">App_Clientes</string>
+
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+    <string name="correo_electronico">Correo electronico:</string>
+    <string name="direccion">Direccion:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="dni">DNI:</string>
+
+    <string name="btn_guarda">Guardar nuevo registro</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+
+    <string name="title">Panaderia Brown</string>
+
+    <string name="enviar">Enviar</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="agregar">Agregar</string>
+    <string name="clientes">Clientes</string>
+
+    <string name="guardarDatos">Guardar Datos Clientes</string>
+    <string name="guardarDato">Guardar Datos Cliente</string>
+    <string name="guardar">Guardar cambios</string>
+
+    <string name="ayuda">Ayuda</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Elimiar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="volver">Volver</string>
+    <string name="ingreseDatos"><u>Ingrese sus datos: </u></string>
+    <string name="editarDatos"><u>Editar datos: </u></string>
+</resources>

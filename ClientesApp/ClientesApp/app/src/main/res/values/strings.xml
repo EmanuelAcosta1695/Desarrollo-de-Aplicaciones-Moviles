@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClientesApp</string>
+    <string name="enviar">Enviar</string>
+    <string name="agregar">Agregar</string>
+    <string name="clientes">Clientes</string>
+    <string name="nuevoCliennte">Nuevo cliente</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Elimiar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="volver">Volver</string>
+    <string name="ingreseDatos"><u>Ingrese sus datos: </u></string>
+    <string name="editarDatos"><u>Editar datos: </u></string>
+</resources>

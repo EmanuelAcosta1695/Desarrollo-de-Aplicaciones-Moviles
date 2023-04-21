@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AyudaActivity"
+    android:background="@color/textoInicio">
+
+
+    <VideoView
+        android:id="@+id/videoView1"
+        android:layout_width="450dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginRight="20dp"></VideoView>
+
+    <LinearLayout
+        android:id="@+id/ButonsLayout1"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="220dp"
+        android:gravity="center"
+        android:layout_alignParentTop="true">
+
+        <ImageButton android:id="@+id/play1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/play"
+            android:onClick="iniciar1"/>
+
+        <ImageButton android:id="@+id/pause1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/pause"
+            android:onClick="pausar1"/>
+
+        <ImageButton android:id="@+id/stop1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/stop"
+            android:onClick="detener1"/>
+
+    </LinearLayout>
+
+    <VideoView
+        android:id="@+id/videoView2"
+        android:layout_width="450dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginRight="20dp" />
+
+    <LinearLayout
+        android:id="@+id/ButonsLayout2"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="450dp"
+        android:gravity="center"
+        android:layout_alignParentTop="true">
+
+        <ImageButton android:id="@+id/play2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/play"
+            android:onClick="iniciar2"/>
+
+        <ImageButton android:id="@+id/pause2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/pause"
+            android:onClick="pausar2"/>
+
+        <ImageButton android:id="@+id/stop2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/stop"
+            android:onClick="detener2"/>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
