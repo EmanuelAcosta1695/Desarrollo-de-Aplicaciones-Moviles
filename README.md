@@ -1,6 +1,7 @@
 # Desarrollo-de-Aplicaciones-Moviles
 
-Aplicaciones desarrolladas con Java para Android para la materia "Desarrollo de Aplicaciones Móviles" en la carrera "Tecnicatura Superior en Desarrollo de Software".
+(2022)
+Aplicaciones desarrolladas con Java para Android para la materia "Desarrollo de Aplicaciones Móviles" en la carrera "Tecnicatura Superior en Desarrollo de Software", 2° año.
 
 - Primer Examen Parcial
   (ClientesApp)
